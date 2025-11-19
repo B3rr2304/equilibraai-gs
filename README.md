@@ -65,7 +65,7 @@ Para executar o projeto na sua máquina, siga os passos:
 
 Clone o repositório:
 
-git clone [https://github.com/SEU_USUARIO/equilibraai-gs.git](https://github.com/SEU_USUARIO/equilibraai-gs.git)
+git clone https://github.com/B3rr2304/equilibraai-gs.git
 cd equilibraai-gs
 
 
